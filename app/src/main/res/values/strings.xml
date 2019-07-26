@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CodingTest1</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="singleton">Singleton</string>
+    <string name="most_frequent_occurence">Most Frequent Occurence</string>
+    <string name="is_divisible">Is Divisible</string>
+    <string name="armstrong_number">Armstrong Number</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="check_palindrome">Check Palindrome</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="clear_array">Clear Array</string>
+    <string name="most_frequent_number">Most Frequent Number:</string>
+    <string name="enter">Enter</string>
+    <string name="check_armstrong_status">Check Armstrong Status</string>
+</resources>
